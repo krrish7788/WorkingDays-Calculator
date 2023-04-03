@@ -17,7 +17,7 @@ pip install holidays
 ```
 **Usage**
 ```
-python using_library.py --check_date 2025-01-25 --country_code TH
+python using_library.py --check_date 2025-01-25
 ```
 **Args**
 ```
@@ -37,7 +37,7 @@ pip install webdriver-manager
 ```
 **Usage**
 ```
-python3 using_scraper.py --check_date 2025-01-25 --country_code 68
+python3 using_scraper.py --check_date 2025-01-25
 ```
 **Args**
 ```
