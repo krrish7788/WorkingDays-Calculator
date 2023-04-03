@@ -1,4 +1,4 @@
-# WorkingDays-Calculator ( 
+# Working Days Calculator 
 
 Python code for a the problem **"Calculate the number of working days from today to a future date"** (country: THAILAND)
 
