@@ -21,7 +21,7 @@ python using_library.py --check_date 2025-01-25
 ```
 **Args**
 ```
-[--help] or [--h] for help 
+[--help] or [--h] for help (to get country codes)
 [--check_date] to input the date, format: yyyy-mm-dd
 [--sat] to include saturday as a working day
 [--country_code] to select the country based on the codes in https://pypi.org/project/holidays/ (default: Thailand: TH)
@@ -41,7 +41,7 @@ python3 using_scraper.py --check_date 2025-01-25
 ```
 **Args**
 ```
-[--help] or [--h] for help
+[--help] or [--h] for help (to get country codes)
 [--check_date] to input the date, format: yyyy-mm-dd
 [--sat] to include saturday as a working day
 [--country_code] to select the country based on the codes in https://www.timeanddate.com/calendar/ (default: Thailand: 68)
